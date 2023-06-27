@@ -1,0 +1,7 @@
+{
+    "adapter_path": "./adapter",
+    "offload_path": "./offload",
+    "full_model_path": "./full_model",
+    "ct2_path": "./ct2" ,
+    "quantization": false 
+}
