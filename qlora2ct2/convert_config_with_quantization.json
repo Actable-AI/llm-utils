@@ -1,7 +1,0 @@
-{
-    "adapter_path": "./adapter",
-    "offload_path": "./offload",
-    "full_model_path": "./full_model",
-    "ct2_path": "./ct2_int8_float16" ,
-    "quantization": "int8_float16"
-}

@@ -1,1 +1,0 @@
-CUDA_VISIBLE_DEVICES=0 python convert_qlora2_ct2.py "convert_config_with_quantization.json"
