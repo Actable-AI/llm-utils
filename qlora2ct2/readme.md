@@ -1,4 +1,4 @@
-This is some trick for faster inference qlora model using Ctranslate2 instead of normal inference.
+This is the trick for faster inference qlora model using Ctranslate2 instead of normal inference.
 
 The method basiclly just merge the adapter of qlora model with full model, save it and then convert to ct2.
 
